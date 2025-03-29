@@ -6,8 +6,8 @@ I have applied to a Backend Engineer role at fetch. Hence submitting this as a t
 To run 
 Clone the package
 
-Run ``go mod init <name>
+Run ``go mod init <name>``
 
-Run ``go mod tidy
+Run ``go mod tidy``
 
-Run ``go run *.go
+Run ``go run *.go``
