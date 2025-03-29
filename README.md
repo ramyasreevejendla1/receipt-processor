@@ -7,5 +7,7 @@ To run
 Clone the package
 
 Run ``go mod init <name>
+
 Run ``go mod tidy
+
 Run ``go run *.go
